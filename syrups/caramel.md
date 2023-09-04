@@ -1,4 +1,6 @@
-# Cinnamon Dolce Syrup
+<!-- # Cinnamon Dolce Syrup -> here it must be caramel Dolce syrup instead of cinnamon Dolce syrup -->
+
+# Caramel Dolce Syrup
 
 ## Description: Add the exciting sweetness of caramel syrup to any coffee at home with this delicious recipe
 
