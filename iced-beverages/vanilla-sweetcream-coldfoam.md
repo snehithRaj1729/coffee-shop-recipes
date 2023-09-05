@@ -4,7 +4,8 @@
 
 ## Ingredients
 
-- 8 oz Breakfast Blend
+<!-- - 8 oz Breakfast Blend -->
+- 8 oz of Cold Brew.
 - 1/4 cup of 2% milk
 - 1 Tbsp powdered sugar
 - 1/4 tsp vanilla extract
